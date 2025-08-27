@@ -1,2 +1,5 @@
-sharepoint location:
+sharepoint location cursor can access:
 1. benefit: https://tenstorrent.sharepoint.com/sites/General/Benefits/Forms/AllItems.aspx?id=%2Fsites%2FGeneral%2FBenefits%2FUS&newTargetListUrl=%2Fsites%2FGeneral%2FBenefits&viewpath=%2Fsites%2FGeneral%2FBenefits%2FForms%2FAllItems%2Easpx
+
+
+https://tenstorrent.sharepoint.com/sites/PlatformArchitecture
