@@ -1,5 +1,8 @@
 # AI@TT Project
 
+TL;DR
+All you need to do is a .cursorrules to let cursor do something in higher priority, and make it read the file lists you want to search.
+
 ## Overview
 This project contains internal resources and configuration files for the AI@TT development environment.
 
